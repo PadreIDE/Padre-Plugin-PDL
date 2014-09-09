@@ -14,7 +14,7 @@ test_requires 'Test::More' => '0.88';
 no_index 'directory' => qw{ t xt eg share inc};
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginPDL';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-PDL';
+repository 'https://github.com/PadreIDE/Padre-Plugin-PDL';
 
 install_share_with_mofiles;
 
